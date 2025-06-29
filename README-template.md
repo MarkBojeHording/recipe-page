@@ -12,8 +12,8 @@ A solution to the [Recipe page challenge on Frontend Mentor](https://www.fronten
 
 ## 🚀 Live Demo
 
-- [Live Site URL](https://your-live-site-url.com)
-- [Solution on Frontend Mentor](https://your-solution-url.com)
+- [Live Site URL](https://recipe-page-markhording.netlify.app/)
+- [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/recipe-page-oijb14e4lr)
 
 ---
 
@@ -77,7 +77,7 @@ A solution to the [Recipe page challenge on Frontend Mentor](https://www.fronten
 ## 👤 Author
 
 - Mark Hording
-- [Frontend Mentor](https://www.frontendmentor.io/profile/yourusername)
+- [Frontend Mentor](https://www.frontendmentor.io/profile/MarkBojeHording)
 
 ---
 
