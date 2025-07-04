@@ -11,7 +11,7 @@
 
 body {
   font-size: 16px;
-  font-family: 'Young Serif', sans-serif;
+  font-family: 'Outfit', sans-serif;
   font-weight: 400;
   background-color:  hsl(30, 54%, 90%);
   color: #333;
@@ -43,7 +43,7 @@ body {
   font-size: 42px;
   font-weight: 700;
   color: #333;
-  font-family: 'Outfit', sans-serif;
+  font-family: 'Young Serif', serif;
   margin-top: 30px;
   margin-bottom: 20px;
   margin-left: 20px;
@@ -71,6 +71,7 @@ body {
   font-size: 20px;
   color: purple;
   margin-bottom: 20px;
+  font-family: 'Young Serif', serif;
 }
 
 .recipe-time-list li {
@@ -81,6 +82,7 @@ body {
 .recipe-ingredients-title {
   margin-left: 20px;
   color: hsl(14, 45%, 36%);
+  font-family: 'Young Serif', serif;
 }
 
 .recipe-ingredients-list li {
@@ -90,6 +92,7 @@ body {
 .recipe-instructions-title {
   margin-left: 20px;
   color: hsl(14, 45%, 36%);
+  font-family: 'Young Serif', serif;
 }
 
 .recipe-instructions-list li {
@@ -154,7 +157,6 @@ body {
   color: hsl(228, 45%, 44%);
 }
 
-/* Responsive Design */
 @media screen and (max-width: 600px) {
   html, body {
     background: none !important;
